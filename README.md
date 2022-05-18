@@ -10,3 +10,6 @@ The following phases has been implemented for land use/land cover classification
 4- In this phase, I allocated classification to image segmentation 
 5- Using random forest algorithm, image was classified to 4 classes 
 6- Finally, using test dataset, I obtained the accuracy of the model
+
+# Reference
+This Youtupe tutorial: https://www.youtube.com/playlist?list=PLzHdTn7Pdxs6R6gf-0aLCqy8pL1GazPEe
